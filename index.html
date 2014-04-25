@@ -6,7 +6,9 @@
     <link rel="stylesheet/less" type="text/css" href="thm/app.less">
     <script>
         less = {
-            env : "development"
+            env : "development",
+            async: true, 
+            fileAsync: true,
         }
     </script>
     <script src="dep/less/less-1.7.0.min.js"></script>
@@ -15,7 +17,7 @@
 <body>
 
     <div id="peace-titlebar">
-        <div id="peace-titlebar-left">&9774; Peace</div>
+        <div id="peace-titlebar-left">Peace</div>
         <div id="peace-titlebar-right">
             <a id="peace-minimize-window-button"></a>
             <a id="peace-maximize-window-button"></a>
@@ -23,6 +25,8 @@
             <a id="peace-close-window-button"></a>
         </div>
     </div>	
+
+    <div id="peace-logo">&#9774;</div>
 
 </body>
 </html>

@@ -36,10 +36,42 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "manifest.json",
 			"settings":
 			{
-				"buffer_size": 15,
+				"buffer_size": 364,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 829,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.ts",
+			"settings":
+			{
+				"buffer_size": 979,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thm/app.less",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/projects/meetingdb/index.html",
+			"settings":
+			{
+				"buffer_size": 10553,
 				"line_ending": "Windows"
 			}
 		}
@@ -130,6 +162,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/adrian.voica/Documents/GitHub/peace/README.md",
 		"/D/projects/peace/manifest.json",
 		"/D/projects/peace/index.html",
 		"/D/projects/peace/dep/codemirror-4.1/addon/hint/css-hint.js",
@@ -256,8 +289,7 @@
 		"/C/Users/adrian.voica/Desktop/Caret-master/js/sessions/binding.js",
 		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/sessions/binding.js",
 		"/C/Users/adrian.voica/Documents/GitHub/Caret/templates/newTabButton.html",
-		"/C/Users/adrian.voica/Desktop/Caret-master/js/sessions.js",
-		"/C/Users/adrian.voica/Documents/GitHub/Caret/package.json"
+		"/C/Users/adrian.voica/Desktop/Caret-master/js/sessions.js"
 	],
 	"find":
 	{
@@ -279,6 +311,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"}\n",
 			"toggler",
 			"content",
 			"eye",
@@ -399,30 +432,154 @@
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "manifest.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15,
+						"buffer_size": 364,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14,
-								14
+								351,
+								351
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "thm/app.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/D/projects/meetingdb/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1582,
+								1536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -445,11 +602,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.634146341463,
 			1.0
 		],
 		"rows":

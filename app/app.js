@@ -15,12 +15,14 @@ var createOptions = {
         width: width,
         height: height
     },
+    minWidth: width,
+    minHeight: height,
     resizable: true
 };
 
 //Create new window on app launch
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
-    chrome.app.window.create('app/url', createOptions, function (created_window) {
+    chrome.app.window.create('index.html', createOptions, function (created_window) {
         return;
     });
 });

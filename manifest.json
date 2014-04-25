@@ -10,8 +10,8 @@
   },
   "app": {
     "background": {
-      "scripts": ["app/main.js"]
+      "scripts": ["app/app.js"]
     }
   },
-  "permissions": ["webview"]
+  "permissions": ["file:///thm/*"]
 }
