@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"newMeetingD",
+				"newMeetingDropDownTimer"
+			],
+			[
+				"body",
+				"bodyBackgroundColor"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"firs",
+				"firstElementChild"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"newTabB",
+				"newTabButtonHtml"
+			],
+			[
+				"new",
+				"newTabButtonHtml"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Better TypeScript/TypeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 38.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 352.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"which node",
+			"which \"jsx\"",
+			"which jsx",
+			"cls",
+			"open",
+			"cmd",
+			"cls",
+			"clear()",
+			"clear",
+			"clrscr",
+			"cls",
+			"clear_console",
+			"clear_console()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projects/peace/manifest.json",
+		"/D/projects/peace/index.html",
+		"/D/projects/peace/dep/codemirror-4.1/addon/hint/css-hint.js",
+		"/D/projects/peace/styles/main.css",
+		"/C/Users/adrian.voica/Desktop/notes.txt",
+		"/D/projects/meetingdb/Styles/right-panel.less",
+		"/D/projects/meetingdb/Styles/left-panel.less",
+		"/D/projects/meetingdb/Styles/variables.less",
+		"/D/projects/meetingdb/Styles/Meeting.less",
+		"/D/projects/meetingdb/app/UI/Templates/Lists/Meetings.html",
+		"/D/projects/meetingdb/index.html",
+		"/D/projects/meetingdb/Styles/header.less",
+		"/D/projects/meetingdb/app/UI/Templates/Meetings/ManageMeeting.html",
+		"/D/projects/meetingdb/app/Configuration.ts",
+		"/D/projects/meetingdb/app/UI/Templates/Main.html",
+		"/D/projects/meetingdb/app/AjaxInterceptors.ts",
+		"/D/projects/meetingdb/Images/FMC-Logo.jpg",
+		"/D/projects/meetingdb/app/references.ts",
+		"/D/projects/meetingdb/app/Application.ts",
+		"/D/projects/meetingdb/Styles/Meeting.css",
+		"/D/projects/meetingdb/Styles/controls.less",
+		"/D/projects/meetingdb/Styles/jquery-ui.css",
+		"/C/Users/adrian.voica/Desktop/html/assets/styles.css",
+		"/D/projects/meetingdb/Styles/images/ui-bg_flat_0_aaaaaa_40x100.png",
+		"/D/projects/meetingdb/app/Resources.ts",
+		"/C/Users/adrian.voica/Desktop/html/01.basic_layout.html",
+		"/D/projects/meetingdb/Styles/MeetingL.less",
+		"/D/projects/meetingdb/app/Routes.ts",
+		"/D/projects/meetingdb/app/UI/Templates/Meetings/NewManageMeeting.html",
+		"/D/projects/meetingdb/app/UI/Templates/NewMain.html",
+		"/D/projects/meetingdb/app/UI/Templates/Meetings/_ManageMeeting.html",
+		"/D/projects/ts/app/game.ts",
+		"/D/projects/meetingdb/app/Routes.js",
+		"/D/projects/meetingdb/Styles/new-meeting.less",
+		"/D/projects/meetingdb/app/UI/Templates/_Main.html",
+		"/D/projects/meetingdb/Styles/new.css",
+		"/D/sublimetext3/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/D/projects/meetingdb/app/UI/Templates/old-main.html",
+		"/D/sublimetext3/Data/Packages/Better TypeScript/TypeScript.sublime-settings",
+		"/D/projects/ts/game.ts",
+		"/D/projects/ts/main.js",
+		"/D/projects/ts/main.ts",
+		"/D/projects/ts/index.html",
+		"/D/projects/ts/game.js",
+		"/D/projects/jsx/app.jsx",
+		"/D/projects/jsx/index.html",
+		"/D/projects/jsx/main.jsx",
+		"/D/sublimetext3/Data/Packages/User/jsx.sublime-build",
+		"/D/sublimetext3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/sublimetext3/Data/Packages/User/JSON.sublime-settings",
+		"/D/projects/jsx/apps.jsx",
+		"/D/projects/twintap/index.html",
+		"/D/projects/twintap/index.ts",
+		"/D/sublimetext3/Data/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/C/Users/adrian.voica/Desktop/html/assets/js/script.js",
+		"/D/sublimetext3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/projects/Fresenius Protokolldatenbank/src/Fresenius.Protokolldatenbank/Fresenius.Protokolldatenbank/Layouts/Fresenius.Protokolldatenbank/app/UI/Controllers/MainController.ts",
+		"/D/projects/Fresenius.Protokolldatenbank/app/Routes.ts",
+		"/D/projects/Fresenius.Protokolldatenbank/app/Configuration.ts",
+		"/D/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
+		"/C/Users/adrian.voica/Source/Workspaces/Fresenius Protokolldatenbank/src/Fresenius.Protokolldatenbank/Fresenius.Protokolldatenbank.sln",
+		"/D/projects/meetingdb/Fresenius Protokolldatenbank/src/Fresenius.Protokolldatenbank/Fresenius.Protokolldatenbank/Layouts/Fresenius.Protokolldatenbank/Fresenius.Protokolldatenbank.HTMLClient.csproj",
+		"/D/projects/ts1/index.typescript",
+		"/D/projects/match-tap/js/main.js",
+		"/D/projects/match-tap/css/style.less",
+		"/D/projects/match-tap/css/vars.less",
+		"/D/projects/match-tap/index.html",
+		"/C/Users/adrian.voica/Desktop/ed/website + sql/.htaccess",
+		"/C/Users/adrian.voica/Desktop/ed/website + sql/roterkeller.sql",
+		"/C/Users/adrian.voica/Desktop/New Text Document.txt",
+		"/C/Users/adrian.voica/AppData/Local/Temp/_tc/.htaccess",
+		"/D/projects/match-tap/css/prefixer.less",
+		"/D/projects/match-tap/css/base.less",
+		"/D/projects/match-tap/styles.less",
+		"/D/projects/longtap/app.js",
+		"/D/projects/longtap/index.html",
+		"/D/projects/match-tap/style.css",
+		"/D/projects/longtap/angular-game.js",
+		"/C/Users/adrian.voica/Desktop/AngularJS presentation.txt",
+		"/C/Users/adrian.voica/Desktop/game.js",
+		"/D/projects/longtap/templates/game.html",
+		"/D/projects/longtap/lib/errors.json",
+		"/D/projects/cash/css/main.css",
+		"/D/projects/cash/js/main.js",
+		"/D/projects/cash/index.html",
+		"/C/Users/adrian.voica/Desktop/MySQLBase.g",
+		"/C/Users/adrian.voica/Desktop/MySQL.g",
+		"/D/projects/cash/bower.json",
+		"/D/projects/cash/bower_components/jquery/dist/jquery.js",
+		"/D/projects/cash/bower_components/angular/.bower.json",
+		"/D/projects/cashregister/index.html",
+		"/D/projects/cashregister/css/main.css",
+		"/D/projects/cashregister/css/topcoat-mobile-dark.css",
+		"/D/projects/cash/bower_components/angular/angular.js",
+		"/D/projects/cashregister/fonts/stylesheet.css",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/demo/css/main.css",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/demo/js/main.js",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/demo/fonts/stylesheet.css",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/package.json",
+		"/D/projects/cashregister/js/main.js",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/README.md",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/demo/css/theme.css",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/demo/index.html",
+		"/D/projects/peace/js/app.js",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/NOTICE",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/Gruntfile.js",
+		"/C/Users/adrian.voica/Desktop/topcoat-0.8.0/contributors.txt",
+		"/D/projects/ui-ace/demo/demo.html",
+		"/D/projects/ui-ace/demo/demo.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/ui/projectManager.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/main.html",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/css/project.less",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/config/user.json",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/manifest.json",
+		"/D/projects/folder-tree/img/jsfiddle02.png",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/sessions.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/templates/projectFileImgPreview.html",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/storage/file.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/fileManager.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/tab.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/sessions/addRemove.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/config/keys.json",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/css/tabs.less",
+		"/C/Users/adrian.voica/Desktop/Caret-master/js/sessions/binding.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/js/sessions/binding.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/templates/newTabButton.html",
+		"/C/Users/adrian.voica/Desktop/Caret-master/js/sessions.js",
+		"/C/Users/adrian.voica/Documents/GitHub/Caret/package.json"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			"",
+			"-js/ace/*",
+			"-js\\ace",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toggler",
+			"content",
+			"eye",
+			"footer",
+			"meeting-top-menu",
+			"jqgrid",
+			"{\n",
+			"footer",
+			"border",
+			".meeting-left-pannel ",
+			".meeting-right-pannel ",
+			"Lucida Grande,Lucida Sans,",
+			"border-radius",
+			"bor",
+			"font",
+			"font-family",
+			"body",
+			"#4a96cd;",
+			"4a96cd",
+			"#0038a9",
+			"0038a9",
+			"#535353",
+			"#d5d5d5",
+			" #",
+			"#d5d5d5",
+			"assets",
+			"assets/",
+			"Url}/",
+			"@imgRootUrl + '",
+			"'ui/",
+			"ui/",
+			"main",
+			"\n<",
+			"file",
+			"}",
+			"button",
+			"Picture\"",
+			"../../",
+			"../",
+			"Styles",
+			"assets/",
+			"d5d5d5",
+			".ts",
+			"Resources",
+			"references",
+			"TypeScriptCompile",
+			"configuration.",
+			"roter",
+			"-webkit-",
+			"100px",
+			" )",
+			"( ",
+			" )",
+			"( ",
+			"200px",
+			"topFaceColor",
+			"rightFaceColor",
+			"cube-",
+			"pageBackgroundColor",
+			"100",
+			"cubeFaceSize",
+			"200px",
+			"figure",
+			"196",
+			"'",
+			"btn",
+			"button",
+			"\\",
+			"font",
+			"~",
+			"allProjectAnchors",
+			"el",
+			"read",
+			"new File",
+			"session:render",
+			"fileNameExtension",
+			"name",
+			"Name",
+			"session:open-file",
+			"session:",
+			"fileManager",
+			"keys",
+			"projectManager",
+			"inflate",
+			"bindEvents",
+			"init:restart",
+			"settings:change-local",
+			"SyncFile",
+			"settings",
+			"addNewTabButton",
+			"template",
+			"template(",
+			"inflate",
+			"session:",
+			"state.tabs",
+			"new Tab",
+			"tab.html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@linkColor"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "peace-editor.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
